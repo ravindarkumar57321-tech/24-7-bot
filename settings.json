@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DuovilleS2.aternos.me",
-    "port": 40523,
+    "ip": "PublicSMP06.aternos.me",
+    "port": 55744,
     "version": "1.20.1",
     "try-creative": false
   },
